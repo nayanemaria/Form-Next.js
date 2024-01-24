@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.MuiAutocomplete-root.MuiAutocomplete-hasPopupIcon.css-1h51icj-MuiAutocomplete-root {
+  width: 100%;
+}
+
+.alert-success {
+  color: white;
+  background-color: #05c180ed;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+  text-align: center;
+  border-radius: 4px;
+}
+
+.footer-container {
+  width: 100%;
+  background-color: #fff;
+  color: rgba(0, 0, 0, 0.8);
+  margin-top: auto;
+  bottom: 0;
+  position: fixed;
+  text-align: center;
+  padding: 10px 0;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.css-184mzhy-MuiButtonBase-root-MuiIconButton-root {
+  color: rgba(0, 0, 0, 0.8) !important;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root {
+  background-color: #fff !important;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important;
+}
+
+@media (min-width: 1200px) {
+  .css-1oqqzyl-MuiContainer-root {
+    max-width: 100% !important;
+  }
+}
